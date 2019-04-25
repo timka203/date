@@ -1,0 +1,3 @@
+﻿  date_.cpp
+c:\users\земцева\source\repos\date\date\date_.cpp(83): warning C4715: date_::WhatDay: значение возвращается не при всех путях выполнения
+  Date.vcxproj -> C:\Users\ЗемцевА\source\repos\Date\Debug\Date.exe
